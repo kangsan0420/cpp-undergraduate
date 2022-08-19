@@ -1,0 +1,11 @@
+C:\Users\kslee\source\repos\WinForms\Input Shaping PMAC Code Generator\bin\Debug\Input Shaping PMAC Code Generator.exe.config
+C:\Users\kslee\source\repos\WinForms\Input Shaping PMAC Code Generator\bin\Debug\Input Shaping PMAC Code Generator.exe
+C:\Users\kslee\source\repos\WinForms\Input Shaping PMAC Code Generator\bin\Debug\Input Shaping PMAC Code Generator.pdb
+C:\Users\kslee\source\repos\WinForms\Input Shaping PMAC Code Generator\obj\Debug\Input Shaping PMAC Code Generator.csproj.AssemblyReference.cache
+C:\Users\kslee\source\repos\WinForms\Input Shaping PMAC Code Generator\obj\Debug\Input Shaping PMAC Code Generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\kslee\source\repos\WinForms\Input Shaping PMAC Code Generator\obj\Debug\InputShaperCoder.Form1.resources
+C:\Users\kslee\source\repos\WinForms\Input Shaping PMAC Code Generator\obj\Debug\Input_Shaping_PMAC_Code_Generator.Properties.Resources.resources
+C:\Users\kslee\source\repos\WinForms\Input Shaping PMAC Code Generator\obj\Debug\Input Shaping PMAC Code Generator.csproj.GenerateResource.cache
+C:\Users\kslee\source\repos\WinForms\Input Shaping PMAC Code Generator\obj\Debug\Input Shaping PMAC Code Generator.csproj.CoreCompileInputs.cache
+C:\Users\kslee\source\repos\WinForms\Input Shaping PMAC Code Generator\obj\Debug\Input Shaping PMAC Code Generator.exe
+C:\Users\kslee\source\repos\WinForms\Input Shaping PMAC Code Generator\obj\Debug\Input Shaping PMAC Code Generator.pdb

@@ -1,0 +1,44 @@
+
+[2021-12-31 오전 1:55:37 - 2021-12-31 오전 1:55:37]
+
+9 files found in pre folder: "C:\Users\kslee\source\repos\MJ\Unpack_and_Extract\DATA\src"
+file1.txt | d41d8cd98f00b204e9800998ecf8427e
+removed.txt | d41d8cd98f00b204e9800998ecf8427e
+folder1\file2.txt | d41d8cd98f00b204e9800998ecf8427e
+group\file1.MTL | d41d8cd98f00b204e9800998ecf8427e
+group\file1.OBJ | d41d8cd98f00b204e9800998ecf8427e
+group\file1.PNG | d41d8cd98f00b204e9800998ecf8427e
+group\file2.MTL | d41d8cd98f00b204e9800998ecf8427e
+group\file2.OBJ | d41d8cd98f00b204e9800998ecf8427e
+group\file2.PNG | d41d8cd98f00b204e9800998ecf8427e
+
+9 files found in update folder: "C:\Users\kslee\source\repos\MJ\Unpack_and_Extract\DATA\dst"
+file1.txt | 8977dfac2f8e04cb96e66882235f5aba
+newfile.txt | d41d8cd98f00b204e9800998ecf8427e
+folder1\file2.txt | d41d8cd98f00b204e9800998ecf8427e
+group\file1.MTL | d41d8cd98f00b204e9800998ecf8427e
+group\file1.OBJ | d41d8cd98f00b204e9800998ecf8427e
+group\file1.PNG | d41d8cd98f00b204e9800998ecf8427e
+group\file2.MTL | d41d8cd98f00b204e9800998ecf8427e
+group\file2.OBJ | d41d8cd98f00b204e9800998ecf8427e
+group\file2.PNG | 982a22640f41e592d5761c32e57dba48
+
+1 new files found:
+newfile.txt | d41d8cd98f00b204e9800998ecf8427e
+
+1 removed files found:
+removed.txt | d41d8cd98f00b204e9800998ecf8427e
+
+8 files are found on both folders:
+file1.txt | d41d8cd98f00b204e9800998ecf8427e
+folder1\file2.txt | d41d8cd98f00b204e9800998ecf8427e
+group\file1.MTL | d41d8cd98f00b204e9800998ecf8427e
+group\file1.OBJ | d41d8cd98f00b204e9800998ecf8427e
+group\file1.PNG | d41d8cd98f00b204e9800998ecf8427e
+group\file2.MTL | d41d8cd98f00b204e9800998ecf8427e
+group\file2.OBJ | d41d8cd98f00b204e9800998ecf8427e
+group\file2.PNG | d41d8cd98f00b204e9800998ecf8427e
+
+2 files are determined to be changed(by MD5 hash):
+file1.txt | d41d8cd98f00b204e9800998ecf8427e -> file1.txt | 8977dfac2f8e04cb96e66882235f5aba
+group\file2.PNG | d41d8cd98f00b204e9800998ecf8427e -> group\file2.PNG | 982a22640f41e592d5761c32e57dba48

@@ -1,0 +1,4 @@
+libraries/opencv
+libraries/freeglut
+**/x64
+**/.vs

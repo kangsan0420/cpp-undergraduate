@@ -1,0 +1,12 @@
+C:\Users\kslee\source\repos\MJ\Unpack_and_Extract\bin\Debug\Forms - test01.exe.config
+C:\Users\kslee\source\repos\MJ\Unpack_and_Extract\bin\Debug\Forms - test01.exe
+C:\Users\kslee\source\repos\MJ\Unpack_and_Extract\bin\Debug\Forms - test01.pdb
+C:\Users\kslee\source\repos\MJ\Unpack_and_Extract\obj\Debug\Unpack_and_Extract.csproj.AssemblyReference.cache
+C:\Users\kslee\source\repos\MJ\Unpack_and_Extract\obj\Debug\Unpack_and_Extract.csproj.SuggestedBindingRedirects.cache
+C:\Users\kslee\source\repos\MJ\Unpack_and_Extract\obj\Debug\MJ.MainWindow.resources
+C:\Users\kslee\source\repos\MJ\Unpack_and_Extract\obj\Debug\Forms___test01.Properties.Resources.resources
+C:\Users\kslee\source\repos\MJ\Unpack_and_Extract\obj\Debug\Unpack_and_Extract.csproj.GenerateResource.cache
+C:\Users\kslee\source\repos\MJ\Unpack_and_Extract\obj\Debug\Unpack_and_Extract.csproj.CoreCompileInputs.cache
+C:\Users\kslee\source\repos\MJ\Unpack_and_Extract\obj\Debug\Forms - test01.exe
+C:\Users\kslee\source\repos\MJ\Unpack_and_Extract\obj\Debug\Forms - test01.pdb
+C:\Users\kslee\source\repos\MJ\Unpack_and_Extract\obj\Debug\MJ.Progressbar.resources
