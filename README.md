@@ -1,12 +1,12 @@
 # C++ Projects in Undergraduate
 
-- [OpenCV](./repos/OpenCV/README.md)
+- [OpenCV](./repos/OpenCV/)
   - Create QR Code
   - Detect QR Code
   - VR Perspective Box
 <br>
 
-- [OpenGL](./repos/OpenGL/README.md)
+- [OpenGL](./repos/OpenGL/)
   - CNC Bezier
   - Light Test
   - MCK System
@@ -14,7 +14,7 @@
   - FPS Maze Simulator
 <br>
   
-- [WinForms](./repos/WinForms/README.md)
+- [WinForms](./repos/WinForms/)
   - Input Shaping PMAC Code Generator
   - Unpack_and_Extract
   - a Table Scheduler (no source code)
